@@ -1,11 +1,11 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Who am I?"
+excerpt: "I am proficient in test and development: with my previous experience, Git for version control, Python, Xcode for build, Selenium for automation testing, Puppet for deploy, Docker Kubernetes for Operate, Nagios for Monitor and possess strong expertise in Python, R, SQL and Professionally learned but inexperienced programming in C/C++  and Swift. As a highly skilled and experienced DevOps Engineer, I possess a comprehensive understanding of DevOps principles and practices. These principles have been used in my previous work experience."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-10-26"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Waynne
+  picture: "/assets/blog/authors/jj.gif"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
